@@ -19,7 +19,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chamika90/react-native-dynamic-ui.git"
+    "url": "git+https://gitlab.axiatadigitallabs.com/et/IoT-SaaS-Group/libraries/reactnative/dynamic-ui.git"
   },
   "peerDependencies": {
     "react": "^16.13.1",
