@@ -17,6 +17,10 @@
   ],
   "author": "Chamika",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamika90/react-native-dynamic-ui.git"
+  },
   "peerDependencies": {
     "react": "^16.13.1",
     "react-native": ">=0.63.4"
